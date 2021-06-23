@@ -9,4 +9,4 @@ I'm **[Tyrone Faulhaber](https://www.linkedin.com/in/spectrapulse/)** ([Spectrap
 - 📫 How to reach me: [You may want to take a look here.](https://keybase.io/spectrapulse)
 - ⚡ Fun fact: I love creating things, if it isn't software it is probably something hardware related. I strive for perfection! 
 
-*The character in my avatar has been drawn by [hawker](https://chara.gg/hawker) and is part of this [commic](https://ask-drunk-chara.tumblr.com) that has sadly ended :c*
+*The character in my avatar has been drawn by [hawker](https://chara.gg/hawker) and is part of this [comic](https://ask-drunk-chara.tumblr.com) that has sadly ended :c*
