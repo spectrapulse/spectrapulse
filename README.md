@@ -8,3 +8,5 @@ I'm **[Tyrone Faulhaber](https://www.linkedin.com/in/spectrapulse/)** ([Spectrap
 - 💬 Ask me about anything Linux related and I'll most likely be able to help you! It's in my blood :)
 - 📫 How to reach me: [You may want to take a look here.](https://keybase.io/spectrapulse)
 - ⚡ Fun fact: I love creating things, if it isn't software it is probably something hardware related. I strive for perfection! 
+
+*The character in my avatar has been drawn by [hawker](https://chara.gg/hawker) and is part of this [commic](https://ask-drunk-chara.tumblr.com) that has sadly ended :c*
