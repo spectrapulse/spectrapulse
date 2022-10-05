@@ -1,4 +1,4 @@
-<img src="header.svg" width="400" height="110" alt="👀">
+<img src="header.svg" width="310" height="60" alt="👀">
 
 <!--
 **spectrapulse/spectrapulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
