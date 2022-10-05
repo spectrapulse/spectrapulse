@@ -70,7 +70,7 @@
 
                 i {
                     display: inline-flex;
-                    animation: wobble .8s linear .5s alternate both;
+                    animation: wobble .8s linear 1.2s alternate both;
                     text-shadow: none;
                 }
             </style>
