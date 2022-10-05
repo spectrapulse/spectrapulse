@@ -60,13 +60,14 @@
                      * For the type of people that unironically use 
                      * light theme or aren't logged in.
                      */
-                    text-shadow: 0px 9px 30px black;
+                    text-shadow: 2px 2px 6px black;
                     
                 }
 
                 i {
                     display: inline-flex;
                     animation: wobble .8s linear .5s alternate both;
+                    text-shadow: none;
                 }
             </style>
             <div class="container">
