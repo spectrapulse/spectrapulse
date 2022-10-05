@@ -18,16 +18,20 @@
                     }
 
                     45% {
-                        transform: rotate(-3.2deg);
+                        transform: rotate(-6.2deg);
 
                     }
 
                     60% {
-                        transform: rotate(4.4deg);
+                        transform: rotate(8deg);
                     }
 
                     75% {
-                        transform: rotate(-5.6deg);
+                        transform: rotate(-3deg);
+                    }
+
+                    90% {
+                        transform: rotate(-3deg)
                     }
                 }
 
@@ -53,7 +57,7 @@
                         sans-serif,
                         'Apple Color Emoji',
                         'Segoe UI Emoji';
-                        margin-left: 32px;
+                    margin-left: 32px;
                     font-size: 50px;
                     color: white;
                     /* 
@@ -61,7 +65,7 @@
                      * light theme or aren't logged in.
                      */
                     text-shadow: 2px 2px 6px black;
-                    
+
                 }
 
                 i {
