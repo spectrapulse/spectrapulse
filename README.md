@@ -1,4 +1,11 @@
-<img src="header.svg" width="310" height="60" alt="👀">
+<a href="https://github.com/spectrapulse">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&height=240&text=Tyrone%20Faulhaber&fontAlignY=25&fontSize=50&desc=I%20make%20computers%20do%20things%20using%20letters%2C%20numbers%2C%20symbols%20and%20a%20little%20bit%20of%20math..&descSize=16&descAlignY=44"
+    align="center"
+    style="width: 100%"
+  />
+</a>
+  
 
 <!--
 **spectrapulse/spectrapulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
