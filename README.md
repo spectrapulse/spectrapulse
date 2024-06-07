@@ -1,3 +1,6 @@
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; cursor: url('https://cdn.custom-cursor.com/db/16342/32/cartoons-murder-drones-n-cursor.png'), auto; background: url('https://cdn.spectrapulse.io/n.gif');]{x0000}$}
+```
 <a href="https://github.com/spectrapulse">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&height=240&text=Tyrone%20Faulhaber&fontAlignY=25&fontSize=50&desc=I%20make%20computers%20do%20things%20using%20letters%2C%20numbers%2C%20symbols%20and%20a%20little%20bit%20of%20math..&descSize=16&descAlignY=44"
@@ -5,10 +8,7 @@
     style="width: 100%"
   />
 </a>
-  
-```math
-\ce{$\unicode[goombafont; cursor: url('https://cdn.custom-cursor.com/db/16342/32/cartoons-murder-drones-n-cursor.png'), auto; background: url('https://cdn.spectrapulse.io/n.gif'); background-size: cover; object-fit: cover; position: fixed; top: 0; left: 0; height: 100%; width: 100%; z-index: -1; opacity: .7;]{x0000}$}
-```
+
 
 <!--
 **spectrapulse/spectrapulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
