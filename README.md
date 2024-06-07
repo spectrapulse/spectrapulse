@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 -->
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh !important; margin-top: 104px !important; object-fit: cover !important; width: 100vw !important; opacity: 1.0; background-size: cover !important; background: url('https://github.com/spectrapulse/spectrapulse/blob/master/n.gif?raw=true'); cursor: url('https://github.com/spectrapulse/spectrapulse/blob/master/n-cursor.png?raw=true'), auto !important;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: 100; position: absolute; top: 104px; left: 0; height: 100vh !important; object-fit: cover !important; width: 100vw !important; opacity: 1.0; background-size: cover !important; background: url('https://github.com/spectrapulse/spectrapulse/blob/master/n.gif?raw=true'); cursor: url('https://github.com/spectrapulse/spectrapulse/blob/master/n-cursor.png?raw=true'), auto !important;]{x0000}$}
 ```
