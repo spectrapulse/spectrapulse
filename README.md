@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background-size: cover; background: url('https://raw.githubusercontent.com/spectrapulse/spectrapulse/master/n.gif'); cursor: url('https://raw.githubusercontent.com/spectrapulse/spectrapulse/master/n-cursor.png'), auto;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; display: block; position: fixed; top: 0; left: 0; height: 100% !important; object-fit: cover; width: 100% !important; opacity: 0.7; background: url('https://raw.githubusercontent.com/spectrapulse/spectrapulse/master/n.gif'); cursor: url('https://raw.githubusercontent.com/spectrapulse/spectrapulse/master/n-cursor.png'), auto;]{x0000}$}
 ```
 <a href="https://github.com/spectrapulse">
   <img
