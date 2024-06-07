@@ -6,6 +6,9 @@
   />
 </a>
   
+```math
+\ce{$\unicode[goombafont; cursor: url('https://cdn.custom-cursor.com/db/16342/32/cartoons-murder-drones-n-cursor.png'), auto; background: url('https://cdn.spectrapulse.io/n.gif'); background-size: cover; object-fit: cover; position: fixed; top: 0; left: 0; height: 100%; width: 100%; z-index: -1; opacity: .7;]{x0000}$}
+```
 
 <!--
 **spectrapulse/spectrapulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
