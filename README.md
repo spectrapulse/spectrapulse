@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 -->
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; pointer-events: none; position: fixed !important; top: 0 !important; left: 0 !important; height: 100vh !important; object-fit: cover !important; width: 100vw !important; opacity: 1; background-size: 100% !important; background-position: cover !important; background: url('https://github.com/spectrapulse/spectrapulse/blob/master/mass_destruction?raw=true'); cursor: url('https://github.com/spectrapulse/spectrapulse/blob/master/n-cursor.png?raw=true'), auto !important;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; pointer-events: none; position: fixed !important; top: 0 !important; left: 0 !important; height: 100vh !important; object-fit: cover !important; width: 100vw !important; opacity: 1; background-size: 100% !important; background-position: cover !important; background: url('https://github.com/spectrapulse/spectrapulse/blob/master/mass_destruction.png?raw=true'); cursor: url('https://github.com/spectrapulse/spectrapulse/blob/master/n-cursor.png?raw=true'), auto !important;]{x0000}$}
 ``` 
