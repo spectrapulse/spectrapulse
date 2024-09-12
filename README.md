@@ -6,7 +6,7 @@ I'm **Tyrone Faulhaber**, a software/devops engineer from The Netherlands.
     <summary>Expand for to see some stats</summary>
     <picture>
         <source
-            srcset="https://github-readme-stats.kanker.dev/api?username=spectrapulse&layout=compact&theme=github_dark"
+            srcset="https://github-readme-stats.kanker.dev/api?username=spectrapulse&layout=compact&border_color=0d1117&theme=github_dark"
             media="(prefers-color-scheme: dark)"
         />
         <source
