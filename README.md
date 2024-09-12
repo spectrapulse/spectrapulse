@@ -10,7 +10,7 @@ I'm **Tyrone Faulhaber**, a software/devops engineer from The Netherlands.
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.kanker.dev/api?username=spectrapulse&layout=compact&theme=github_light"
+            srcset="https://github-readme-stats.kanker.dev/api?username=spectrapulse&layout=compact&border_color=ffffff&theme=github_light"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img src="" />
