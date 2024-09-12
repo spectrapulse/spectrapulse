@@ -13,7 +13,7 @@ I'm **Tyrone Faulhaber**, a software/devops engineer from The Netherlands.
             srcset="https://github-readme-stats.kanker.dev/api?username=spectrapulse&layout=compact&show_icons=true&count_private=true&include_all_commits=true&border_color=ffffff&theme=github_light"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.kanker.dev/api?username=spectrapulse&layout=compact&show_icons=true&count_private=true&include_all_commits=true" />
+        <img alt="Language Stats" />
     </picture>
     <picture>
         <source
@@ -24,6 +24,6 @@ I'm **Tyrone Faulhaber**, a software/devops engineer from The Netherlands.
             srcset="https://github-readme-stats.kanker.dev/api/top-langs/?username=spectrapulse&layout=compact&show_icons=true&count_private=true&include_all_commits=true&border_color=ffffff&theme=github_light"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.kanker.dev/api/top-langs/?username=spectrapulse&layout=compact&show_icons=true&count_private=true&include_all_commits=true" />
+        <img alt="GitHub Account Stats" />
     </picture>
 </details>
