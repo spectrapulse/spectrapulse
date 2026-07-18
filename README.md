@@ -1,5 +1,5 @@
 # Hello there! 👋
-I'm **Tyrone Faulhaber**, a software/devops engineer from The Netherlands.
+I'm **spectrapulse**, a software/devops engineer from The Netherlands.
 
 ## 
 <details>
